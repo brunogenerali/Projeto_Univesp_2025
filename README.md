@@ -20,6 +20,6 @@
 
 ## Gráficos
 
-![Distribuição de Gênero de Candidatos de 2024 por Partido (em %)](data\images\genero_candidatos_2024.png)
+![Distribuição de Gênero de Candidatos de 2024 por Partido (em %)](data/images/genero_candidatos_2024.png)
 
 Em construção...
