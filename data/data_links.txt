@@ -1,0 +1,9 @@
+# Candidatos 2024
+https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2024.zip
+
+# Eleitorado 2024
+https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2024.zip
+
+# Resoltado Votação nominal por município e zona
+https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2024.zip
+
